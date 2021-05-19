@@ -1,0 +1,11 @@
+{
+    "database":{
+        "user":"user-db",
+        "password":"password-db",
+        "dbname":"name-db",
+        "host":"host-db"
+    },
+    "appcation":{
+        "port":"port"
+    }
+}
